@@ -17,7 +17,6 @@ Once the base case is reached the function will return a value from a[0]. The fu
 If the value for foo is greater than a[0] the function will return foo. Otherwise the function will return the value for a[0]. With that being said this function uses recursion iterate through the 
 array and return the varible foo which will be the larget value in the array. 
 
-
 “I certify that I have listed all sources used to complete this exercise, including the use
 of any Large Language Models. All of the work is my own, except where stated
 otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
